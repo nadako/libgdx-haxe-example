@@ -1,0 +1,5 @@
+--class-path src
+--main Main
+--jvm main.jar
+--java-lib-extern jars
+-cmd java -cp "jars/*;main.jar" _Main.Main_Fields_
