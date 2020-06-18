@@ -1,0 +1,7 @@
+--class-path src
+--main Main
+--jvm main.jar
+--java-lib jars/gdx.jar
+--java-lib jars/gdx-natives.jar
+--java-lib jars/gdx-backend-lwjgl.jar
+--java-lib jars/gdx-backend-lwjgl-natives.jar
